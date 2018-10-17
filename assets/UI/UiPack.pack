@@ -1,0 +1,103 @@
+
+UiPack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+window
+  rotate: false
+  xy: 1, 21
+  size: 318, 106
+  orig: 318, 106
+  offset: 0, 0
+  index: -1
+optionsButton
+  rotate: false
+  xy: 321, 55
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+optionsButtonDown
+  rotate: false
+  xy: 395, 55
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+startButton
+  rotate: false
+  xy: 469, 55
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+startButtonDown
+  rotate: false
+  xy: 543, 55
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+button_pos1
+  rotate: false
+  xy: 1, 1
+  size: 55, 18
+  orig: 55, 18
+  offset: 0, 0
+  index: -1
+button_pos2
+  rotate: false
+  xy: 58, 1
+  size: 55, 18
+  orig: 55, 18
+  offset: 0, 0
+  index: -1
+button_pos3
+  rotate: false
+  xy: 115, 1
+  size: 55, 18
+  orig: 55, 18
+  offset: 0, 0
+  index: -1
+editIcon
+  rotate: false
+  xy: 617, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+eraserIcon
+  rotate: false
+  xy: 683, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moveIcon
+  rotate: false
+  xy: 749, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+settingsIcon
+  rotate: false
+  xy: 815, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tileButton
+  rotate: false
+  xy: 881, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tileButtonSelected
+  rotate: false
+  xy: 947, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

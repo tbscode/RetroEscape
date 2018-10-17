@@ -1,0 +1,215 @@
+
+buttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+game_font
+  rotate: false
+  xy: 1, 467
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 1, 359
+  size: 318, 106
+  orig: 318, 106
+  offset: 0, 0
+  index: -1
+optionsButton
+  rotate: false
+  xy: 515, 907
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+optionsButtonDown
+  rotate: false
+  xy: 1, 285
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+blueDoorTile
+  rotate: false
+  xy: 321, 401
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+blueKeyItem
+  rotate: false
+  xy: 515, 841
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bombItem
+  rotate: false
+  xy: 589, 915
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+checkPointTile
+  rotate: false
+  xy: 1, 219
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+editIcon
+  rotate: false
+  xy: 75, 293
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+emptyTile
+  rotate: false
+  xy: 387, 401
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+eraserIcon
+  rotate: false
+  xy: 515, 775
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+finishTile
+  rotate: false
+  xy: 655, 915
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+greenDoorTile
+  rotate: false
+  xy: 1, 153
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+greenKeyItem
+  rotate: false
+  xy: 141, 293
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 515, 709
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moveIcon
+  rotate: false
+  xy: 721, 915
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+portalTile
+  rotate: false
+  xy: 1, 87
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+redDoorTile
+  rotate: false
+  xy: 207, 293
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+redKeyItem
+  rotate: false
+  xy: 515, 643
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+selectTile
+  rotate: false
+  xy: 787, 915
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+settingsIcon
+  rotate: false
+  xy: 1, 21
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shieldTile
+  rotate: false
+  xy: 515, 577
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+startTile
+  rotate: false
+  xy: 853, 915
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tileButton
+  rotate: false
+  xy: 515, 511
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tileButtonSelected
+  rotate: false
+  xy: 919, 915
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 453, 401
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+button_pos1
+  rotate: false
+  xy: 321, 381
+  size: 55, 18
+  orig: 55, 18
+  offset: 0, 0
+  index: -1
+button_pos2
+  rotate: false
+  xy: 1, 1
+  size: 55, 18
+  orig: 55, 18
+  offset: 0, 0
+  index: -1
+button_pos3
+  rotate: false
+  xy: 515, 491
+  size: 55, 18
+  orig: 55, 18
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 273, 325
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
