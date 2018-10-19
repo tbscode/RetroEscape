@@ -3,6 +3,11 @@ Base engine is done; all Grafics are place holders or Public domain.
 
 <h2> October </h2>
 
+<h3> Message handling implemented </h3>
+Created a animated message dialog and am message dialog queue which is handled by the game map.
+
+<img src="BlogImages/img4.gif" alt="Dialog">
+
 <h3> Intents up and running. </h3>
 Share your self build level over a messenger application for all your friends to play! 
 
