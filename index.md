@@ -3,6 +3,11 @@ Base engine is done; all Grafics are place holders or Public domain.
 
 <h2> October </h2>
 
+<h3> UI advances and test-playing </h3>
+Now a map can be played directly from the editor. Also item views and counters have been added.
+
+<img src="BlogImages/img5.gif" alt="Insta Play">
+
 <h3> Message handling implemented </h3>
 Created a animated message dialog and am message dialog queue which is handled by the game map.
 
