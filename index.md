@@ -1,7 +1,19 @@
 <h1> Devlog: </h1>
-Base engine is done; all Grafics are place holders or Public domain.
+Base engine is done; all Graphics are place holders or Public domain.
 
 <h2> October </h2>
+
+<h3>Tile Settings Editor Added</h3>
+A tiles settings can now be manipulated using a simple tile dependent UI.
+<img src="BlogImages/img6.gif" alt="Tiles Settings">
+
+<h3>Configured all Tiles</h3>
+All tiles (except for the checkpoint) are fully implemented and working.
+<img src="BlogImages/img7.gif" alt="Working Items">
+
+<h3> Added Portal Tile </h3>
+Teleport anywhere on the map using this tile.
+<img src="BlogImages/img8.gif" alt="Teleport">
 
 <h3> UI advances and test-playing </h3>
 Now a map can be played directly from the editor. Also item views and counters have been added.
