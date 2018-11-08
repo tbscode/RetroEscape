@@ -1,6 +1,12 @@
 <h1> Devlog: </h1>
 Base engine is done; all Graphics are place holders or Public domain.
 
+<h2> September </h2>
+
+<h3>Added mutable Tiles</h3>
+Tiles are now connectable!
+<img src="BlogImages/img9.gif" alt="Tiles Settings">
+
 <h2> October </h2>
 
 <h3>Tile Settings Editor Added</h3>
