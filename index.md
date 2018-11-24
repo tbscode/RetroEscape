@@ -3,6 +3,11 @@ Base engine is done; all Graphics are place holders or Public domain.
 
 <h2> September </h2>
 
+<h3> Android compatibility </h3>
+New Features include: Touchpad, full navigation, navigation animations and Kotlin code improvements.
+<img src="BlogImages/img10.gif" alt="Retro Escape on a Pixel 2">
+
+
 <h3>Added mutable Tiles</h3>
 Tiles are now connectable!
 <img src="BlogImages/img9.gif" alt="Tiles Settings">
