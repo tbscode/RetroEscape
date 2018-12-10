@@ -1,3 +1,22 @@
+<h2> Useing: </h2>
+- Kotlin
+- LibGdx
+- ZXING
+- Krita
+
+<h2> Completed features: </h2>
+- Game Engine
+- Level Builder
+ - Compress Level
+ - Save and Load
+ - View as QR Code
+- Load from QR Code
+ - Zxing Integrated
+- Share Maps
+ - Android Intents integrated
+- No need to Install: Stream the game
+ - Android instant integrated (unstable)
+
 <h1> Devlog: </h1>
 Base engine is done; all Graphics are place holders or Public domain.
 
