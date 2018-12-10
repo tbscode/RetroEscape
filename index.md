@@ -1,4 +1,4 @@
-<h2> Useing: </h2>
+<h2> Using: </h2>
 - Kotlin
 - LibGdx
 - ZXING
@@ -19,6 +19,10 @@
 
 <h1> Devlog: </h1>
 Base engine is done; all Graphics are place holders or Public domain.
+
+<h2> November </h2>
+Main Menu and Pack Select added: All base Navigation's and transitions animations are done.
+<img src="BlogImages/img13.gif" alt="Retro Escape on a Pixel 2">
 
 <h2> September </h2>
 
