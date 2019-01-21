@@ -7,18 +7,29 @@
 <h2> Completed features: </h2>
 - Game Engine
 - Level Builder
- - Compress Level
- - Save and Load
- - View as QR Code
+    - Compress Level
+    - Save and Load
+    - View as QR Code
 - Load from QR Code
- - Zxing Integrated
+    - Zxing Integrated
 - Share Maps
- - Android Intents integrated
+    - Android Intents integrated
 - No need to Install: Stream the game
- - Android instant integrated (unstable)
+    - Android instant integrated (unstable)
+
+<h2> Open-Source Graphic Providers (thanks to):</h2>
+- [Jeromes Fantasy Tileset](https://opengameart.org/content/16x16-fantasy-tileset) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
+- [Buchs Golden UI](https://opengameart.org/content/32x32-fantasy-tileset) ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))
+
 
 <h1> Devlog: </h1>
-Base engine is done; all Graphics are place holders or Public domain.
+Base engine is done; all graphics are place holders or Public domain.
+
+<h2> January </h2>
+Remade graphics.
+
+<h2> December </h2>
+Fixed lots of bugs. Finished most transitions (swipe gestures).
 
 <h2> November </h2>
 Main Menu and Pack Select added: All base Navigation's and transitions animations are done.
