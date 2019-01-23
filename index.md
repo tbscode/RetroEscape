@@ -27,6 +27,8 @@ Base engine is done; all graphics are place holders or Public domain.
 
 <h2> January </h2>
 Remade graphics.
+<img src="BlogImages/img15.gif" alt="Retro Escape on a Pixel">
+(img down-scaled to decrease size)
 
 <h2> December </h2>
 Fixed lots of bugs. Finished most transitions (swipe gestures).
