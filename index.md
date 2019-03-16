@@ -1,3 +1,5 @@
+Datenschutzerklärung: Diese App speichert keine Informationen über Nutzer.
+
 <h2> Using: </h2>
 - Kotlin
 - LibGdx
